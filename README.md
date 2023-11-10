@@ -7,3 +7,6 @@
 
 ## Datos
 Los datos del proyecto vienen de [La base de dato Kaggle, Flowers Recognition](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)
+
+## Video Entrega Final
+[Video Pyorecto](https://youtu.be/wNckCcyoqXM)
